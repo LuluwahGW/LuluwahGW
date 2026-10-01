@@ -6,11 +6,6 @@ Senior IT student at Princess Nourah Bint Abdulrahman University, building in **
 
 ## i do listen to music frequently 🎧
 
-<p align="center"><b>last jammed out to</b></p>
-<p align="center">
-  <img src="https://widgets.1ceit.com/LuluwahGW/spotify" alt="Now Playing" />
-</p>
-
 <table align="center">
   <tr>
     <th align="center">all time favorites</th>
@@ -18,19 +13,19 @@ Senior IT student at Princess Nourah Bint Abdulrahman University, building in **
     <th align="center">current favorites</th>
   </tr>
   <tr>
-    <td><b>Until I Know</b><br>Panchiko</td>
-    <td><b>Man of War</b><br>Radiohead</td>
-    <td><b>Lost Verdania</b><br>Christopher Larkin</td>
+    <td><img src="until.png" width="250" alt="Until I Know - Panchiko"></td>
+    <td><img src="radiohead.png" width="250" alt="Man of War - Radiohead"></td>
+    <td><img src="lost.png" width="250" alt="Lost Verdania - Christopher Larkin"></td>
   </tr>
   <tr>
-    <td><b>Lady Brown</b><br>Nujabes</td>
-    <td><b>Bone Bottom</b><br>Christopher Larkin</td>
-    <td><b>Art of War</b><br>Avenoir</td>
+    <td><img src="nujabes.png" width="250" alt="Lady Brown - Nujabes"></td>
+    <td><img src="bonebottom.png" width="250" alt="Bone Bottom - Christopher Larkin"></td>
+    <td><img src="artofwar.png" width="250" alt="Art of War - Avenoir"></td>
   </tr>
   <tr>
-    <td><b>100</b><br>Dean Blunt</td>
-    <td><b>Wahdon</b><br>Fairuz</td>
-    <td><b>My Eyes</b><br>Travis Scott</td>
+    <td><img src="dean.png" width="250" alt="100 - Dean Blunt"></td>
+    <td><img src="wahdon.png" width="250" alt="Wahdon - Fairuz"></td>
+    <td><img src="myeyes.png" width="250" alt="My Eyes - Travis Scott"></td>
   </tr>
 </table>
 
