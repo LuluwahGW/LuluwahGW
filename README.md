@@ -7,7 +7,7 @@ Senior IT student at Princess Nourah Bint Abdulrahman University, building in **
 ## i do listen to music frequently 🎧
 
 <p align="center">
-  <img src="favorites.png" width="800" alt="My favorite songs">
+  <img src="favorites (1).png" width="800" alt="My favorite songs">
 </p>
 
 ---
